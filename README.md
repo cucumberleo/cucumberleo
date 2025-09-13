@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,java,python,vue,html,css,js,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,java,python,vue,js,git,linux,docker" />
 </p>
 
 ---
@@ -55,7 +55,6 @@
 - 🧠 I enjoy solving **algorithmic puzzles** for fun.  
 - ✈️ Dreaming of studying **CS/AI Master’s in the UK or Singapore**.  
 
----
 
 <h3 align="center">📫 Connect with me</h3>
 <p align="center">
@@ -65,6 +64,3 @@
   <a href="https://www.linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
----
-
-⚠️ *Note: For privacy, I didn’t include your phone number directly (GitHub is public). If you really want recruiters to contact you by phone, I recommend adding it in your CV instead of here.*
