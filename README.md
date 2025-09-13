@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👨‍💻 Whoami? </h1>
+<h1 align="center">👨‍💻 Who am I? </h1>
 
 <h4 align="center"> I’m <b>Zhoujinghao</b> <i>aka</i> cucumberleo :ghost: </h4>
 <h4 align="center"> 🌱 Hobbyist in <b>Competitive Programming</b>, 🎨 <b>Designing</b>, 🎾 <b>Tennis</b>, 🤖 <b>AI/LLM Research</b> </h4>
