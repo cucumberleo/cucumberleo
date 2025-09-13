@@ -34,9 +34,9 @@
 ---
 
 ## 📌 Featured Projects
-- 🔥 [AI Agent Playground](https://link-to-your-project.com) – building intelligent agents with LLMs  
+- 🔥 [Web-exchangerate-platform](https://github.com/cucumberleo/Web-exchange-rates-platform) – building community to share financial articles and get exchange rates 
 - 📝 **Z-bird Ink** – AI-powered note digitization & hosting platform  
-- 🎨 **Design Works** – UI/UX experiments and creative illustrations  
+- 🎨 **LLM-Book-recommendation Platform** – LLM-based intelligent book recommender   
 
 ---
 
